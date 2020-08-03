@@ -21,6 +21,8 @@ room
 end
 
 def printer
+  
+end
 
 # describe '#printer' do
 
